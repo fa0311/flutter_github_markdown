@@ -9,7 +9,8 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.6
   flutter_github_markdown:
-    path: ./../
+    git:
+      url: https://github.com/fa0311/flutter_github_markdown.git
   http: ^1.2.1
   url_launcher: ^6.2.5
 

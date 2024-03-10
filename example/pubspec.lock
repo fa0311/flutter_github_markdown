@@ -73,9 +73,11 @@ packages:
   flutter_github_markdown:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: "4641d497f4d50ae07ac24f07869acb28204f1121"
+      url: "https://github.com/fa0311/flutter_github_markdown.git"
+    source: git
     version: "1.0.0+1"
   flutter_lints:
     dependency: "direct dev"
