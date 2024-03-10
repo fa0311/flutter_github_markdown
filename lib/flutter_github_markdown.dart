@@ -14,6 +14,17 @@ String wrapInHtml({required String colorScheme, required String body}) {
     <meta name="color-scheme" content="$colorScheme">
     <link rel="stylesheet"
         href="https://raw.githubusercontent.com/sindresorhus/github-markdown-css/gh-pages/github-markdown.css">
+    <style>
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        article {
+            width: 100%;
+            overflow-x: hidden;
+        }
+    </style>
+
 </head>
 
 <body>
