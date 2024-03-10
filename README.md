@@ -4,9 +4,13 @@ Flutter implementation of [github-markdown-css](https://github.com/sindresorhus/
 
 Note that we are using WebView
 
-<picture>
-<img alt="icon" src="image/README/1710040044340.jpg" width="200px">
-</picture>
+
+<div align="center">
+  <picture>
+    <img alt="icon" src="image/README/1710040044340.jpg" width="200px">
+  </picture>
+</div>
+
 
 
 
